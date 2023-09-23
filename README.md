@@ -2,6 +2,10 @@
 
 PromptVerse is a comprehensive full-stack web application designed to provide users with powerful CRUD (Create, Read, Update, Delete) capabilities. With PromptVerse, users can effortlessly create prompts for AI, assign tags for efficient categorization, and seamlessly share these prompts with others. The application also offers a convenient Google account integration, allowing users to log in quickly, copy prompts for immediate use, and access their user profiles.
 
+## Link to Deployed Version
+
+You can access the deployed version of FE-Andros-News [here](https://fs-nextjs-ai-promptverse.vercel.app/).
+
 ## User Profiles
 
 In PromptVerse, each user has access to their own profile, where they can:
