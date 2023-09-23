@@ -1,6 +1,6 @@
 # PromptVerse - Fullstack CRUD App
 
-PromptVerse is a comprehensive full-stack web application designed to provide users with powerful CRUD (Create, Read, Update, Delete) capabilities. With PromptVerse, users can effortlessly create prompts for AI, assign tags for efficient categorization, and seamlessly share these prompts with others. The application also offers a convenient Google account integration, allowing users to log in quickly, copy prompts for immediate use, and access their user profiles.
+PromptVerse is a comprehensive full-stack web application designed to provide users with powerful CRUD (Create, Read, Update, Delete) capabilities. Users can effortlessly create prompts for AI, assign tags for efficient categorization, and seamlessly share these prompts with others. Additionally, the application offers a convenient Google account integration for quick login, prompt copying for immediate use, and easy access to user profiles. The integrated search bar further simplifies the process of finding prompts by allowing users to quickly look up usernames or tags, enhancing the overall user experience with easy access to specific content and relevant prompts.
 
 ## Link to Deployed Version
 
