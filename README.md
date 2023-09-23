@@ -4,7 +4,7 @@ PromptVerse is a comprehensive full-stack web application designed to provide us
 
 ## Link to Deployed Version
 
-You can access the deployed version of FE-Andros-News [here](https://fs-nextjs-ai-promptverse.vercel.app/).
+You can access the deployed version of PromptVerse [here](https://fs-nextjs-ai-promptverse.vercel.app/).
 
 ## User Profiles
 
