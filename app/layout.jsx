@@ -11,6 +11,12 @@ const RootLayout = ({ children }) => {
   return (
     <html>
       <body lang="en">
+        <link
+          rel="icon"
+          href="/icon?<generated>"
+          type="image/<generated>"
+          sizes="<generated>"
+        />
         <Provider>
           <div className="main">
             <div className="gradient" />
